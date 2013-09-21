@@ -9,4 +9,4 @@ NOTES
 ====
 
 Link -lpthread library to server.
-Use of the client: ./client <IP> <Port>
+Use of the client: ./client IP Port
