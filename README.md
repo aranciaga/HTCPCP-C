@@ -1,7 +1,7 @@
 HTCPCP-C
 ====
 
-Simple implementation of HTCPCP protocol on C. Make coffee from everywhere!
+Simple implementation of Hyper Text Coffee Pot Control Protocol on C. Make coffee from everywhere!
 
 (Adapted to Arduino)
 
